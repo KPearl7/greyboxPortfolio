@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "open sans", sans serif;
+    font-size: 20px;
+    text-align: center;
+    max-width: 80%;
+    margin: auto;
+    }
+
+
+header {
+    background-color: lightgray;
+    height: 100px;
+}
+
+.about {
+    background-color: darkgray;
+    padding: 20px 30px;
+    line-height: 24px;
+}
+
+ .projects {
+    width: 100%;
+    min-height: 200px;
+    padding: 20px;
+    background-color: lightgray;
+
+}
+
+section a {
+    display: block;
+}
+
+img {
+    width: 50%;
+    height: 50%;
+}
+
+footer {
+    width: 100%;
+    height: 50px;
+}
+
